@@ -2,4 +2,3 @@
 <h2> Deploying on Docker </h2>
 <h2> Deploying Docker swarm </h2>
 <h2> updated master by majid </h2>
-
